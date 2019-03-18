@@ -1,0 +1,36 @@
+# ======================================
+#  Add a Document Tab Field Definitions
+# ======================================
+cep:
+    label: zombiecorp.braddress::lang.address.cep
+    tab: zombiecorp.braddress::lang.tab.address
+    type: Zombiecorp\Braddress\FormWidgets\CepWidget
+    span: auto
+tipo_logradouro:
+    label: zombiecorp.braddress::lang.address.tipo_logradouro
+    tab: zombiecorp.braddress::lang.tab.address
+    span: auto
+logradouro:
+    label: zombiecorp.braddress::lang.address.logradouro
+    tab: zombiecorp.braddress::lang.tab.address
+    span: auto
+numero:
+    label: zombiecorp.braddress::lang.address.numero
+    tab: zombiecorp.braddress::lang.tab.address
+    span: auto
+complemento:
+    label: zombiecorp.braddress::lang.address.complemento
+    tab: zombiecorp.braddress::lang.tab.address
+    span: auto
+bairro:
+    label: zombiecorp.braddress::lang.address.bairro
+    tab: zombiecorp.braddress::lang.tab.address
+    span: auto
+cidade:
+    label: zombiecorp.braddress::lang.address.cidade
+    tab: zombiecorp.braddress::lang.tab.address
+    span: auto
+estado:
+    label: zombiecorp.braddress::lang.address.estado
+    tab: zombiecorp.braddress::lang.tab.address
+    span: auto
